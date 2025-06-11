@@ -28,10 +28,10 @@
 ### 🛠️ Tech Stack
 
 **Languages:** C, C++, Java, Python, JavaScript, TypeScript, SQL  
-**Frontend:** React.js, Next.js, Tailwind, Bootstrap, Material UI, Redux  
-**Backend:** Node.js, Express.js, FastAPI, Flask, REST APIs, WebSocket, GraphQL, JWT, OAuth  
+**Frontend:** React.js, Next.js, Tailwind, Bootstrap
+**Backend:** Node.js, Express.js, FastAPI, Flask, REST APIs, WebSocket, GraphQL, JWT 
 **Databases:** MongoDB, MySQL, PostgreSQL, Firebase, Redis  
-**Tools:** Git, GitHub, Vercel, GCP, Render, Railway, Netlify, Langchain, LangGraph, Langflow, Postman, Jest
+**Tools:** Git, GitHub, Vercel, Render, Railway, Netlify, Langchain, LangGraph, Langflow, Postman
 
 ---
 
