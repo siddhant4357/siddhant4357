@@ -1,71 +1,130 @@
-<h1 align="center">Hi 👋, I'm Siddhant Sankesara</h1>
-<h3 align="center">Full Stack Developer | CSE (AIML) @ Adani University | Building Scalable & AI-Powered Platforms</h3>
+<div align="center">
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:6e00ff,50:b300ff,100:00d4ff&height=280&section=header&text=Siddhant%20Sankesara&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=AI%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Hackathon%20Champion&descAlignY=65&descSize=18&descColor=d8b4fe" />
 
-🔹 Currently pursuing **B.Tech in CSE (AI & ML)** at Adani University (2023–2027)  
-🔹 **Former Intern at Infosys Springboard** (Sept 2025 – Nov 2025), where I built 10+ REST APIs with RBAC  
-🔹 Passionate about building real-time systems, adaptive learning tools, and AI-integrated platforms  
-🔹 Focused on **Machine Learning, Deep Learning, and RAG** pipelines  
-🔹 Actively working with modern LLM frameworks like **LangChain and LangGraph**  
+</div>
 
----
+<div align="center">
 
-### 🧠 Featured Projects
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=B300FF&center=true&vCenter=true&width=700&lines=Hey+there+%F0%9F%91%8B+I+build+things+that+matter;LangChain+%7C+LangGraph+%7C+RAG+Pipelines;Won+%E2%82%B990%2C000+across+hackathons+%F0%9F%8F%86;Turning+wild+ideas+into+prod+systems+%F0%9F%9A%80" />
 
-* **PixelMatch – AI-Powered Photo Search**
-    * Engineered an ensemble of **ArcFace and FaceNet512** with **FAISS-based IVF indexing** for sub-millisecond similarity matching.
-    * Integrated **Llama 3.3 (Groq)** to extract dates and geocoded locations from EXIF metadata for natural language discovery.
-* **GeoQuery AI – Geospatial Intelligence Platform**
-    * Developed a platform for natural language queries over satellite-derived metrics (NDVI, water coverage) using **Google Earth Engine**.
-    * Implemented an explainable **RAG pipeline** using FAISS-based semantic search for data-grounded responses.
-* **AdVantage – Autonomous Multi-Agent Marketing**
-    * Built an autonomous system using **LangGraph and LangChain** where AI agents collaboratively research and refine marketing copy.
-    * Streamed real-time agent progress to the frontend using **Server-Sent Events (SSE)**.
-* **Trade Wise & MindSurf**
-    * **Trade Wise:** A financial advisory platform driven by Angel One SmartAPI.
-    * **MindSurf:** An adaptive learning platform utilizing FastAPI, RAG, and ChromaDB.
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=siddhant4357&style=for-the-badge&color=6e00ff&labelColor=1a0030&label=👁️+PROFILE+VIEWS" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/📍_Ahmedabad,_Gujarat-1a0030?style=for-the-badge&color=6e00ff&labelColor=1a0030" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/🎓_Adani_University_·_8.6_CPI-1a0030?style=for-the-badge&color=6e00ff&labelColor=1a0030" />
+
+</div>
 
 ---
 
-### 🏆 Achievements & Recognitions
-
-* **🥇 Champion (1st Place) – Hackovate'25**
-    * Won among 200+ teams at LJ University; awarded ₹40,000 cash prize.
-* **🥈 Runner-Up (2nd Place) – Hack-Innovate'26**
-    * Competed against 280+ teams at AIDTM Campus; awarded ₹50,000 cash prize.
-* **🚀 Top 10 Finalist – National-Level GDG Hackathon**
-    * Recognized in the **Autonomous Hacks'26** competition.
-* **✅ Kaun Banega Gyanwaan**
-    * Successfully live-tested a real-time quiz platform with 30+ users.
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="480" />
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+## ⚡ What I'm About
 
-**Languages & Frontend:** Python, JavaScript, TypeScript, SQL, React.js, Next.js, Tailwind CSS  
-**Backend & AI:** FastAPI, Node.js, Express.js, RAG, LangChain, PyTorch, FAISS, MongoDB, PostgreSQL  
-**Cloud & Tools:** GCP, Vercel, Render, Git, GitHub, Postman, Google Earth Engine  
-
----
-
-### 📫 Let's Connect
-
-<p align="left">
-  <a href="https://twitter.com/siddhant_4357" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/siddhant4357" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/siddhant._.4357" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
-  </a>
-</p>
+```
+🔥  Building AI-integrated platforms that actually ship
+🤖  Obsessed with LangChain, LangGraph & multi-agent systems
+🧠  Deep into RAG pipelines, FAISS, and real-time inference
+🌍  Satellite imagery + NLP? Yeah, I did that.
+🏆  ₹90,000 won across hackathons — and counting
+```
 
 ---
 
-### 🌐 Portfolio & Contact
-📎 [**View My Work**](https://portfolio-alpha-two-kx2oao78oc.vercel.app/)  
-📧 **Email:** siddhantsankesara@gmail.com  
-🌍 **Location:** Gandhinagar, Gujarat
+## 🚀 Things I've Built
+
+<div align="center">
+
+| &nbsp; | Project | What's Wild About It |
+|:---:|:---|:---|
+| 🔍 | **PixelMatch** | ArcFace + FaceNet512 ensemble · FAISS IVF · sub-ms matching across 5,000+ images |
+| 🤖 | **VincentAI** | Multi-agent social marketing · LangGraph · WhatsApp gateway via Twilio |
+| 🌍 | **GeoQuery AI** | Ask satellite data questions in plain English · Earth Engine · explainable RAG |
+| 🥽 | **SharpMind** | Spatial AR learning · React Native · ViroReact · real-time object detection |
+| 📈 | **TradewiseAI** | Personalized investment advisory · Llama-3 via Groq · Angel One SmartAPI |
+
+</div>
+
+---
+
+## 🏆 Battle Record
+
+<div align="center">
+
+```
+  ┌──────────────────────────────────────────────────────────────┐
+  │  🥇  CHAMPION     Hackovate'25 · LJ University               │
+  │      200+ teams · ₹40,000 cash prize                         │
+  ├──────────────────────────────────────────────────────────────┤
+  │  🥈  RUNNER-UP    Hack-Innovate'26 · AIDTM Campus            │
+  │      280+ teams · ₹50,000 cash prize                         │
+  ├──────────────────────────────────────────────────────────────┤
+  │  🥇  DOUBLE 1ST   SAC IITRAM + Gandhinagar University        │
+  │      AI/Tech Domain · 100+ teams                             │
+  ├──────────────────────────────────────────────────────────────┤
+  │  🚀  NATIONAL FINALIST   Dotslash 9.0 · SVNIT                │
+  │  🚀  NATIONAL FINALIST   GDG Hackathon                       │
+  └──────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 🛠 The Toolkit
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,fastapi,nodejs,pytorch,mongodb,postgres,gcp,vercel,git&theme=dark&perline=6" />
+
+<br/><br/>
+
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=b300ff)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=graphql&logoColor=b300ff)
+![FAISS](https://img.shields.io/badge/FAISS-000000?style=flat-square&logo=meta&logoColor=b300ff)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-000000?style=flat-square&logo=openai&logoColor=b300ff)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=b300ff)
+![React Native](https://img.shields.io/badge/React_Native-000000?style=flat-square&logo=react&logoColor=b300ff)
+
+</div>
+
+---
+
+## 📡 Find Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/siddhant4357">
+<img src="https://img.shields.io/badge/LinkedIn-6e00ff?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://twitter.com/siddhant_4357">
+<img src="https://img.shields.io/badge/Twitter-6e00ff?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:siddhantsankesara@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-6e00ff?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://portfolio-alpha-two-kx2oao78oc.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-6e00ff?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+> *"I don't just use AI — I build with it."*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00d4ff,50:b300ff,100:6e00ff&height=150&section=footer" />
