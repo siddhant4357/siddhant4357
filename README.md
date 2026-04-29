@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=B300FF&center=true&vCenter=true&width=700&lines=Hey+there+%F0%9F%91%8B+I+build+things+that+matter;LangChain+%7C+LangGraph+%7C+RAG+Pipelines;Won+%E2%82%B990%2C000+across+hackathons+%F0%9F%8F%86;Turning+wild+ideas+into+prod+systems+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=B300FF&center=true&vCenter=true&width=700&lines=Hey+there+%F0%9F%91%8B+I+build+things+that+matter;LangChain+%7C+LangGraph+%7C+RAG+Pipelines;4x+National+Hackathon+Winner+%F0%9F%8F%86;Turning+wild+ideas+into+prod+systems+%F0%9F%9A%80" />
 
 </div>
 
@@ -24,21 +24,21 @@
 
 ---
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="480" />
-</div>
-
----
-
-## ⚡ What I'm About
-
-```
-🔥  Building AI-integrated platforms that actually ship
-🤖  Obsessed with LangChain, LangGraph & multi-agent systems
-🧠  Deep into RAG pipelines, FAISS, and real-time inference
-🌍  Satellite imagery + NLP? Yeah, I did that.
-🏆  ₹90,000 won across hackathons — and counting
-```
+<table border="0" cellpadding="12" cellspacing="0" width="100%">
+<tr>
+<td valign="middle" width="50%">
+<h3>⚡ What I'm About</h3>
+🔥 &nbsp;Building AI-integrated platforms that actually ship<br/><br/>
+🤖 &nbsp;Obsessed with LangChain, LangGraph & multi-agent systems<br/><br/>
+🧠 &nbsp;Deep into RAG pipelines, FAISS, and real-time inference<br/><br/>
+🌍 &nbsp;Satellite imagery + NLP? Yeah, I did that.<br/><br/>
+🏆 &nbsp;4x National Hackathon Winner — still competing
+</td>
+<td valign="middle" align="center" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="100%" />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -127,4 +127,5 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00d4ff,50:b300ff,100:6e00ff&height=150&section=footer" />
+
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:6e00ff,50:b300ff,100:00d4ff&height=130&width=1200&section=footer&text=I%20don't%20follow%20trends.%20I%20build%20them.&fontSize=20&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%" />
